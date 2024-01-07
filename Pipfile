@@ -8,9 +8,11 @@ pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 scipy = "*"
+scikit-learn = "*"
 
 [dev-packages]
 ipykernel = "*"
+notebook = "*"
 
 [requires]
 python_version = "3.9"
