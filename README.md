@@ -1,1 +1,1 @@
-Disclaimer: dataset used in this project is totally ramdom and does not reflect real data or disease correlation
+Disclaimer: The dataset used in this project is totally random and does not reflect real data or disease correlation.
