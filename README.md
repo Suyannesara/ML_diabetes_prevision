@@ -1,0 +1,1 @@
+Disclaimer: dataset used in this project is totally ramdom and does not reflect real data or disease correlation
